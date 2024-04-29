@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MediaDosAlunos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MediaDosAlunos_jar</output-path>
+    <root id="archive" name="MediaDosAlunos.jar">
+      <element id="module-output" name="MediaDosAlunos" />
+    </root>
+  </artifact>
+</component>
